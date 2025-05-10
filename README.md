@@ -1,4 +1,4 @@
-# Project Name
+# Analytic dashboard
 
 A brief description of this project.
 

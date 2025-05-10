@@ -71,7 +71,7 @@ export default function DashboardOverview() {
   </select>
 </div>
 
-        <h1 className="text-2xl md:text-3xl font-bold text-[#4c5fa5]">Overview</h1>
+        <h1 className="text-2xl md:text-3xl font-bold text-white">Overview</h1>
 
         {/* Revenue & Performance */}
 
